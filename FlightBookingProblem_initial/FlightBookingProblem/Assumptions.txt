@@ -1,0 +1,12 @@
+I assume that:
+	- I can hard code the existing planes for feature 3
+	- That for feature 2: 
+			- the capacity still needs to be checked
+			- that there was no need to inform the user that it changed to relaxed rules or to default rules
+			- that there is a need to move between default and relaxed rules
+
+
+To move between relaxed and default rules you can type at any moment relaxed or default, depending on which rules you
+wish to apply.			
+
+	
